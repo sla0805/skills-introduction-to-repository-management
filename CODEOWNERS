@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sla0805
+/src/backend/database.py      @sla0805
+/src/backend/routers/auth.py  @sla0805
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sla0805
